@@ -34,3 +34,4 @@ C:\src\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.dll
 C:\src\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.pdb
 C:\src\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.genruntimeconfig.cache
 C:\src\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWe.46D39C49.Up2Date
+C:\src\VendasWebMvc\VendasWebMvc\obj\Debug\netcoreapp2.1\VendasWebMvc.sourcelink.json
